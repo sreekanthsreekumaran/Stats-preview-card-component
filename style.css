@@ -83,6 +83,7 @@
     @media screen and (max-width: 375px) {
         .card{
             height: 100%;
+            width: 100%;
             display: flex;
             align-items: center;
             justify-content: center;
